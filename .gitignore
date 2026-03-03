@@ -1,0 +1,11 @@
+.DS_Store
+*.bak
+*.tmp
+
+# Max/MSP cache/user state (if generated)
+*.maxproj.user
+
+# Runtime logs
+data/logs/*.csv
+data/logs/*.jsonl
+data/logs/*.log
