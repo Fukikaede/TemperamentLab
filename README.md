@@ -1,6 +1,6 @@
 # TemperamentLab
 
-TemperamentLab は、異なる音律（Temperament）を比較しながら和音の響きと粗さを検証するための Max プロジェクトです。  
+TemperamentLab は、異なる音律（Temperament）を比較しながら和音の響きと粗さを直感的に検証するための Max プロジェクトです。  
 ABX テスト、周波数マッピング、簡易解析（ビート成分・roughness 指標）、試行ログ記録を 1 つのコンソールで扱える構成になっています。
 
 ## 主な機能
